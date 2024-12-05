@@ -2,7 +2,7 @@
 
 ## Live Demo
 You can view the live version of this project here:  
-[https://omnifood.netlify.app](https://omnifood.netlify.app)
+[https://omnifood.netlify.app](https://ommniffod.netlify.app)
 
 ## About
 This is a demo project for a food delivery website built with HTML, CSS, and JavaScript. It showcases responsive design and modern web development techniques.
