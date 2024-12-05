@@ -1,0 +1,11 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "Omnifood is an AI-powered food subscription that will make you eat healthy again, 365 days per year. It's tailored to your personal taste and nutritional needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tedo Gulisashvili",
+  "license": "ISC"
+}
